@@ -1,1 +1,2 @@
 # UVPseminarska
+za svojo projektno nalogo sem podatke pridobila iz spletne strani https://www.hribi.net/gorovje/julijske_alpe/1. Zbrala sem podatke o Julijskih Alpah. Najprej sem zagnala program.py iz katerega sem pridobila datoteko.csv. , iz gore.py sem pridobila julijske.alpe.csv, iz gore_podrobnosti.py sem pridobila julijske_alpe_podrobnosti.csv(vsebuje vse podrobnosti za vsako goro) in nakoncu se iz poti.py poti.csv(vsebuje vse različne označene poti, njihovo težavnost in priporočeno opremo. 
